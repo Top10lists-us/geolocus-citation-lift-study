@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "geolocus_citation_lift_study",
+  "project_id": "03030c74-32a7-46f7-ad06-132aa067f5a6"
+}
